@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_label_judul" type="id" />
+    <item name="txt_add_nama" type="id">txt_add_nama</item>
+</resources>
